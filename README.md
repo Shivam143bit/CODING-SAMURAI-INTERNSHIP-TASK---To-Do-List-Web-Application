@@ -1,7 +1,7 @@
 # CODING-SAMURAI-INTERNSHIP-TASK---To-Do-List-Web-Application
  A to-do list web application is a web-based tool that helps users manage their tasks and stay organized. It allows users to add, edit, and delete tasks, mark tasks as completed, and filter and sort tasks by status, priority, or due date. A to-do list web application is a web-based application that allows users to manage their tasks and stay organized. It is a great way for beginners to learn about web development using HTML, CSS and  JavaScript.
 
-Here is a brief description of the features that a to-do list web application can include:
+# Here is a brief description of the features that a to-do list web application can include:
 
 Task Management: Enable users to add, edit, and delete tasks on the to-do list.
 Task Status: Allow users to mark tasks as completed or pending.
@@ -11,7 +11,7 @@ Priority Levels: Implement priority levels (e.g., high, medium, low) for tasks t
 Filtering and Sorting: Provide options to filter tasks by status (completed/pending) and sort tasks by priority or due date.
 Responsive Design: Ensure the application is responsive and works well on various screen sizes.
 
-Here is a more detailed description of each feature:
+# Here is a more detailed description of each feature:
 
 Task Management
 
@@ -41,7 +41,7 @@ Responsive Design
 
 Responsive design ensures that the to-do list application works well on various screen sizes. This is important because users may access the application from a variety of devices, such as smartphones, tablets, and laptops.
 
-Here are some of the benefits of using a to-do list web application:
+# Here are some of the benefits of using a to-do list web application:
 
 Increased productivity: A to-do list web application can help users to be more productive by helping them to stay organized and on track.
 
